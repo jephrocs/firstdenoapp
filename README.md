@@ -1,2 +1,0 @@
-# firstdenoapp
-Begin app

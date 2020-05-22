@@ -1,6 +1,8 @@
 // TODO: modify the body object!
 let body = {
-  message: "climb is gay "
+  message: "test ",
+  id : "a1r2"
+  
 }
 
 export async function handler (req: object) {

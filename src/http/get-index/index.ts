@@ -1,5 +1,5 @@
 // TODO: modify the body object! 
-// changed id
+
 let body = {
   message: "test ",
   id : "a1r2"
@@ -17,7 +17,7 @@ export async function handler (req: object) {
 }
 
 // Example responses
-
+// give example 
 /* Forward requester to a new path
 export async function handler (req: object) {
   return {
@@ -30,7 +30,7 @@ export async function handler (req: object) {
 }
 */
 
-/* Respond with successful resource creation
+
 export async function handler (req: object) {
   return {
     statusCode: 201,
@@ -41,7 +41,7 @@ export async function handler (req: object) {
     body: JSON.stringify({ok: true})
   }
 }
-*/
+
 
 /* Deliver client-side JS
 export async function handler (req: object) {

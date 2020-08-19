@@ -17,7 +17,7 @@ export async function handler (req: object) {
 }
 
 // Example responses
-// give example 
+// give ex
 /* Forward requester to a new path
 export async function handler (req: object) {
   return {
@@ -43,7 +43,7 @@ export async function handler (req: object) {
 }
 
 
-/* Deliver client-side JS
+eliver client-side JS
 export async function handler (req: object) {
   return {
     headers: {
@@ -53,4 +53,4 @@ export async function handler (req: object) {
     body: 'console.log("Hello world!")',
   }
 }
-*/
+
